@@ -5,7 +5,8 @@ class BinarySearch
   public static void main(String args[])
   {
     int c, first, last, middle, n, search, array[];
- 
+   #this is the comments section added by some one from team
+    # please take care
     Scanner in = new Scanner(System.in);
     System.out.println("Enter number of elements");
     n = in.nextInt();
